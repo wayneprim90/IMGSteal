@@ -14,7 +14,10 @@
 | path to your installation.
 |
 */
+// For Production
 $config['base_url']	= 'http://www.imgsteal.com';
+// For Development
+// $config['base_url']	= 'http://localhost:8888/img_steal';
 
 /*
 |--------------------------------------------------------------------------
