@@ -1,0 +1,1 @@
+[25-Apr-2015 02:36:56 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/imgsteal/public_html/application/views/results_view.php on line 5
